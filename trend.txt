@@ -1,0 +1,36 @@
+
+
+1.Trend of Total sales and years
+The trend in sales of tracks over years from 2009 to 2012 is steady for USA with average sale of 102 nearly  but there is a decline in sales for the 2013 and its average sale is 86
+The Trend in sales of tracks  for Canada increases and decreases consequently for the period of 2009 to 2013. 
+The Trend in sales of tracks for India remains steady for 2009,2012 and 2013 with average sale of 11 but there is increase for the year 2010 and 2011 .
+The Trend in sales of tracks for Portugal remains steady for 2009,2010 and 2011 with a average of 11 but sales almost doubles at an average of 23 for the year 2012 and 2013
+
+
+
+2.Trend in Genre and years
+The rock Genre has the highest sales in period of 2009 to 2010 (835 tracks) and second and third are latin genre and Metal genre with 386 and 264 tracks respectively.
+The rock genre song trend in 2009 to 2013 average 167  per year.The sale of Rock declined from 2009 to 2010 with highest 2009 and increased again in 2012 and 2013.
+The Latin genre songs trend in 2009 to 2013 average of 77.2 per year.The sale of latin declined in 2012 but remained steady otherwise.
+The metal genre songs trend in 2009 to 2013 average of 52.8 per year.The sale of metal declined in 2012 but remained steady otherwise.
+
+3.Trend in Monthly revenue over period 2009 to 2013
+every month in 2009 has a average revenue of 37.62.
+In 2010 ,Jan-Feb-mar has a increasing revenue of 52,46,44   respectively.All other months have steady revenue at 37.62.
+In 2011, april-may-jun has a increasing revenue of 51,42,50 respectively.All other months have steady revenue at nearly 37.62.
+In 2012, aug-sep-oct has a increasing revenue of 47,46,42 respectively.All other months have steady revenue at nearly 37.62.
+in 2013, nov-dec has a increasing revenue of 49.6,38.6 respectively.All other months have steady revenue at nearly 37.62.
+
+4.Trend of Genre and country annually
+
+Slicing and dicing the data from 2009 to 2013 ,gives the analysis on genre each country predominately prefer.Countries  like Australia, Germany,Netherlands and Poland, the most preferred genre is ROCK (based album sales). Countries like United States, United Kingdom,Brazil, Chile and India have most diverse genres(SciFi & Fantasy,Jazz,Rock,Metal,Classical) over the years.
+The trend of genre over city is different in countries like Canada,India,USA,France and cites like São Paulo(Brazil),Buenos Aires(Argentina),Sydney(Australia),Budapest(Hungary),Amsterdam(Netherlands),Warsaw(Poland) have consistent genres over the years.
+
+
+
+
+
+
+
+
+
